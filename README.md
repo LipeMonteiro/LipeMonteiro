@@ -1,13 +1,26 @@
 ### E aí, tranquilo?👋
 
-Eu tenho 19 anos, moro em Barueri-SP e sou estudante de **Desenvolvimento WEB** na área de **Front-end**.
+Eu tenho 19 anos e moro em Barueri-SP.
 
-💻**Hard Skils:** HTML, CSS3, JAVASCRIPT
-🧑🏾**Soft Skills:** Proatividade, trabalho em equipe, espírito de liderança e comunicação.
+🚀 Atualmente estudo a área de **Front-end**</br>
+💻 **Skils:** ✅HTML, ✅CSS3<br>
+👨🏾‍🎓 **Estudando:** ⏳Javascript e ⏳React </br></br>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeMonteiro&show_icons=true&theme=gruvbox)</br>
+📩 Meus contatos: </br>
+<p align="left">
+  <a href="https://web.whatsapp.com/send?phone=55+11+942315865" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-
+<a href="https://www.linkedin.com/in/filipe-monteiro-68b4a6191/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  
+<a href="https://www.instagram.com/__moonteiroo/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
 
 
