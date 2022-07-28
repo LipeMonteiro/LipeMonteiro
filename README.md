@@ -6,7 +6,14 @@ Eu tenho 19 anos e moro em Barueri-SP.
 💻 **Skils:** ✅HTML, ✅CSS3<br>
 👨🏾‍🎓 **Estudando:** ⏳Javascript e ⏳React </br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeMonteiro&show_icons=true&theme=gruvbox)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeMonteiro&show_icons=true&theme=gruvbox)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeMonteiro&layout=compact&langs_count=6&theme=tokyonight"/>
+
+<div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div></br>
 📩 Meus contatos: </br>
 <p align="left">
   <a href="https://web.whatsapp.com/send?phone=55+11+942315865" target="_blank">
@@ -21,11 +28,7 @@ Eu tenho 19 anos e moro em Barueri-SP.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
 
 </p>
 
