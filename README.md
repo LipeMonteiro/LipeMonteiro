@@ -1,6 +1,6 @@
 ### E aí, tranquilo?👋
 
-Eu tenho 19 anos e moro em Barueri-SP.
+Eu tenho 21 anos e moro em Barueri-SP.
 
 🚀 Atualmente estudo a área de **Front-end**</br>
 💻 **Skils:** ✅HTML, ✅CSS3<br>
