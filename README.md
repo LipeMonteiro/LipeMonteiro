@@ -1,8 +1,8 @@
-### E aí, tranquilo?👋
+### E aí, beleza?👋
 
-Eu tenho 21 anos e moro em Barueri-SP.
+Eu tenho 22 anos e moro em Barueri-SP.
 
-🚀 Atualmente estudo a área de **Front-end**</br>
+🚀 Atualmente estudo a área de **Desenvolvimento Front-end**</br>
 💻 **Skils:** ✅HTML, ✅CSS3<br>
 👨🏾‍🎓 **Estudando:** ⏳Javascript e ⏳React </br></br>
 
@@ -16,7 +16,7 @@ Eu tenho 21 anos e moro em Barueri-SP.
 </div></br>
 📩 Meus contatos: </br>
 <p align="left">
-  <a href="https://web.whatsapp.com/send?phone=55+11+942315865" target="_blank">
+  <a href="https://web.whatsapp.com/send?phone=55+11+962658510" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
