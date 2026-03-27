@@ -12,15 +12,21 @@ I also create content and share knowledge on **web development and tech entrepre
 ## 🌐 Where to find me
 
 <p align="left">
+  <div>
   <a href="https://github.com/LipeMonteiro">
     <img src="https://img.shields.io/badge/GitHub-LipeMonteiro-181717?style=for-the-badge&logo=github" />
   </a>
+  </div>
+  <div>
   <a href="https://instagram.com/ofilipe.monteiro">
     <img src="https://img.shields.io/badge/Instagram-@ofilipe.monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  </div>
+  <div>
   <a href="https://www.youtube.com/@ofilipemonteiro">
     <img src="https://img.shields.io/badge/YouTube-FILIPE%20MONTEIRO%20--%20DESENVOLVEDOR-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  </div>
 </p>
 
 ---
