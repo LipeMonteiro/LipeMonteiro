@@ -13,7 +13,7 @@ I also create content and share knowledge on **web development and tech entrepre
 
 <p align="left">
   <a href="https://github.com/LipeMonteiro">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-LipeMonteiro-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/ofilipe.monteiro">
     <img src="https://img.shields.io/badge/Instagram-@ofilipe.monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
